@@ -1,2 +1,2 @@
-# capacitacionagro
-toma de contacto de capacitación eva
+# plataforma
+Web de toma de contacto para capacitación en plataforma virtual
